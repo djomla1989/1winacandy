@@ -1,0 +1,72 @@
+[08/23/2015 6:39 PM] - FAIL: IPN Validation Failed . /cgi-bin/webscr : www.paypal.com
+IPN POST Vars from gateway:
+
+IPN Response from gateway Server:
+ HTTP/1.1 403 Forbidden
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 285
+Expires: Sun, 23 Aug 2015 16:39:15 GMT
+Date: Sun, 23 Aug 2015 16:39:15 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;paypal&#46;com&#47;cgi&#45;bin&#47;webscr" on this server.<P>
+Reference&#32;&#35;18&#46;622d1402&#46;1440347955&#46;e8a6ca1
+</BODY>
+</HTML>
+
+
+[08/23/2015 6:41 PM] - FAIL: IPN Validation Failed . /cgi-bin/webscr : www.paypal.com
+IPN POST Vars from gateway:
+
+IPN Response from gateway Server:
+ HTTP/1.1 403 Forbidden
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 285
+Expires: Sun, 23 Aug 2015 16:41:09 GMT
+Date: Sun, 23 Aug 2015 16:41:09 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;paypal&#46;com&#47;cgi&#45;bin&#47;webscr" on this server.<P>
+Reference&#32;&#35;18&#46;662d1402&#46;1440348069&#46;752ad48
+</BODY>
+</HTML>
+
+
+[08/23/2015 6:41 PM] - FAIL: IPN Validation Failed . /cgi-bin/webscr : www.paypal.com
+IPN POST Vars from gateway:
+
+IPN Response from gateway Server:
+ HTTP/1.1 403 Forbidden
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 285
+Expires: Sun, 23 Aug 2015 16:41:38 GMT
+Date: Sun, 23 Aug 2015 16:41:38 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;paypal&#46;com&#47;cgi&#45;bin&#47;webscr" on this server.<P>
+Reference&#32;&#35;18&#46;622d1402&#46;1440348098&#46;e8b3bcf
+</BODY>
+</HTML>
+
+
